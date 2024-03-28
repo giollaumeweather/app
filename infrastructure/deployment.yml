@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: weather-app-container
-        image: monregistry/monapp:latest
+        image: starman0812/myapp:cea35bdee15588a09b70893dba46be8a99626de9
         ports:
         - containerPort: 3000
 
